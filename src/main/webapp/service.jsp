@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Home - Your Company</title>
+    <title>Services - Your Company</title>
 </head>
 <body>
     <header>
@@ -18,8 +18,8 @@
     </header>
 
     <section class="main-content">
-        <h2>Welcome to Your Company</h2>
-        <p>This is the homepage content. Feel free to explore our website.</p>
+        <h2>Our Services</h2>
+        <p>Explore the wide range of services we offer to meet the needs of our clients. From consulting to implementation, we've got you covered.</p>
     </section>
 
     <footer>
